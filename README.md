@@ -17,3 +17,6 @@ CSS – Adds styling, animations, and responsiveness.
 JavaScript – Enhances interactivity for a dynamic user experience.
 
 output:-
+![Image](https://github.com/user-attachments/assets/dd2c485b-6113-41a1-9e3d-44f2dd9d49ca)
+![Image](https://github.com/user-attachments/assets/ad541f97-ea15-4877-9afd-e757aff04936)
+![Image](https://github.com/user-attachments/assets/9034bac0-8f2b-451c-ba4d-f379cd4d6def)
